@@ -5,5 +5,6 @@ t.shape('turtle')
 
 def square(length):
     for i in range(4):
-turtle.forward (length)
-turtle.right (90)
+        t.forward(length)
+        t.left(90)
+
