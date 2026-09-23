@@ -17,3 +17,5 @@ def draw_sixty_squares(t):
     for _ in range(60):
         square(t, 100)
         t.left(5)
+
+turtle.done
